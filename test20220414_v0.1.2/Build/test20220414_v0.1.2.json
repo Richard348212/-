@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "瘋狂飛行",
+"productVersion": "0.1.2",
+"dataUrl": "test20220414_v0.1.2.data.unityweb",
+"wasmCodeUrl": "test20220414_v0.1.2.wasm.code.unityweb",
+"wasmFrameworkUrl": "test20220414_v0.1.2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.22f1"
+}
